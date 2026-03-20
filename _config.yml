@@ -27,7 +27,7 @@ profile_image: ./assets/images/profile-image/WhatsApp Image 2026-03-20 at 11.34.
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: "C:\Users\reyes\Downloads\CV_Aaron_Reyes_Mendoza_1 (1).pdf" # or /assets/resume/resume.pdf
+resume-url: assets/resume/CV_Aaron_Reyes_Mendoza_1 (1).pdf # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
