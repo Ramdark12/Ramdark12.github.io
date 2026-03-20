@@ -76,7 +76,8 @@ skills:
     - Mass properties analysis
     - Center of gravity evaluation
     - Topological optimization
-    - category: Mechanical design
+    
+  - category: Mechanical design
     tools:
     - Mechanism design (drivetrains, gearboxes, linkages)
     - Design for Manufacturability (DFM)
